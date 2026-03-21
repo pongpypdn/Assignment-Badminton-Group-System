@@ -46,19 +46,19 @@
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](assets/images/dashboard.png)
 
 ### Member Management
-![Members](images/members.png)
+![Members](assets/images/members.png)
 
 ### Expenses
-![Match](images/expenses.png)
+![Match](assets/images/expenses.png)
 
 ### Match Making
-![Match](images/match.png)
+![Match](assets/images/match.png)
 
 ### Backup
-![Match](images/backup.png)
+![Match](assets/images/backup.png)
 ---
 
 ## ⚙️ Installation & Run Programs
