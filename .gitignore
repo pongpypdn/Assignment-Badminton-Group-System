@@ -1,6 +1,5 @@
 # database
-*.db
-
+#*.db
 # python cache
 __pycache__/
 *.pyc
